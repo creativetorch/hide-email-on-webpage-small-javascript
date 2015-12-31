@@ -1,0 +1,7 @@
+<script type="text/javascript" language="JavaScript">// <![CDATA[
+var userid = "user";
+var hostid = "host.com";
+var link = userid + "@" + hostid;
+document.write("<a hre" + "f=ma" + "ilto:" + userid + "@" + hostid + ">" + link + "</a>");
+// ]]></script>
+<noscript>user-{{at}}-host.com</noscript>
