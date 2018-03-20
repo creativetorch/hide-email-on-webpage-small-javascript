@@ -4,7 +4,7 @@ Hide an email address on your webpage from spam bots, crawlers, and website scra
 
 
 Change "updateuser" (1 reference) and "updatehost.com" (in 2 places) for your desired user and email-domain address.
-The script will add "@" and put everything together. 
+The script will add "@" and put everything together and print your full email address on a webpage. Place the script where you want the email address displayed.
 
 
 var userid = "updateuser";
