@@ -6,7 +6,6 @@ Change "updateuser" (1 reference) and "updatehost.com" (in 2 places) for your de
 
 Do not rename 'userid' or 'hostid'
 
-<script type="text/javascript" language="JavaScript">// <![CDATA[
 var userid = "updateuser";
 var hostid = "updatehost.com";
 ...remaining code removed for security reasons; see file...
