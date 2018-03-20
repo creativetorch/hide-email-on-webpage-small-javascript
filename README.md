@@ -7,5 +7,5 @@ Change "updateuser" (1 reference) and "updatehost.com" (in 2 places) for your de
 var userid = "updateuser";<br>
 var hostid = "updatehost.com";<br>
 ...remaining code removed for security reasons; see file...<br>
-Do not rename 'userid' or 'hostid'
+Do not rename 'userid' or 'hostid'<br>
 <noscript> [Javascript needs to be enabled to view the updatehost.com email] </noscript>
