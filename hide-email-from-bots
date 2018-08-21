@@ -4,4 +4,4 @@ var hostid = "updatehost.com";
 var link = userid + "@" + hostid;
 document.write("<a hre" + "f=ma" + "ilto:" + userid + "@" + hostid + ">" + link + "</a>");
 // ]]></script>
-<noscript> [Javascript needs to be enabled to view the updatehost.com email] </noscript>
+<noscript> [Javascript needs to be enabled to view the email] </noscript>
