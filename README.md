@@ -15,4 +15,9 @@ var hostid = "updatehost.com";
 
 Do not rename 'userid' or 'hostid'
 
-<noscript> [Javascript needs to be enabled to view the updatehost.com email] </noscript>
+NOSCRIPT option:
+Update the line with any information you want the user to see if they do not have javascript enabled:
+<noscript> [Javascript needs to be enabled to view the email address] </noscript>
+Do not put the full email address here with an "@" symbol... that will defeat the whole purpose of using this script. Leave the current text or try: Email us at username ..![at]!.. domain.com.
+
+DISCLAIMER: This script is not perfect, protecting from bot crawlers is a constant battle. As "they" get better, so must our protections. If you start to get more email junk than normal, check where your email address may be displayed without any "protection" online. You may also think about changing the script and text to adapt it to obfuscate the text more so crawlers can not read it.
